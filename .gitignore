@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/challenge02
+challenge02.so
+challenge02.dylib
+challenge02.dll
+challenge02.a
+challenge02.lib
+challenge02-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst

@@ -1,0 +1,13 @@
+{
+	"authors": [
+		"cet"
+	],
+	"copyright": "Copyright © 2024, cet",
+	"dependencies": {
+		"intel-intrinsics": "~>1.11.18",
+		"tern": "~>0.2.11"
+	},
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "challenge02"
+}
